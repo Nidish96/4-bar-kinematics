@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/4bar.dir/Main.c.o CMakeFiles/4bar.dir/Header.c.o CMakeFiles/4bar.dir/Graphics.c.o  -o 4bar -lm /usr/lib/x86_64-linux-gnu/libglut.so /usr/lib/x86_64-linux-gnu/libXmu.so /usr/lib/x86_64-linux-gnu/libXi.so -lGL -lGLU 
